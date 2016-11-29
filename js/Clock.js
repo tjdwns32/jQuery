@@ -8,7 +8,7 @@ function startClock(){
      */
      //1. html div 영역을 javascript  객체로 바꿔서 들고가기 ( 순수 javascript로만)
      var div = document.getElementById("clockDiv");
-     //html element를  javascript 객체로 변환, document object(문서 객체) 시키고 변수(div)에 저장
+     //html element를  javascript 객체(document object)로 변환시키고 변수(div)에 저장
      //document : html 문서의 body부분 지칭
      //1초 마다 반복적으로 현재시간을 구해서 div에 출력
      clock =  window.setInterval(function(){

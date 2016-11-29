@@ -11,13 +11,13 @@
 
 /*javascript
 * - 변수를 사용할 수 있어요
-* JavaScript 의 테이터 타입은??*/
+* JavaScript 의 데이터 타입은??*/
 
 /** -기본 테이터 타입
  *  -number : 정수와 실수를 구분하지 않아요
  *  -boolean : true, false
  *  -string : "a" =+ 'a'
- *  -undefineds
+ *  -undefined
  *  -null : 값이 없다*/
 
 
